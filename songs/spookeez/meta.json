@@ -1,0 +1,15 @@
+{
+	"displayName": "Spookeez",
+	"bpm": 150.0,
+	"icon": "spooky",
+	"color": "#223344",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard",
+		"erect",
+		"nightmare"
+	]
+}

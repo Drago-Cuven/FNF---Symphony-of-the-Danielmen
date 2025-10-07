@@ -1,0 +1,11 @@
+{
+	"displayName": "Blammed",
+	"bpm": 165.0,
+	"icon": "pico",
+	"color": "#941653",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"difficulties": [ 1, 2, 3, 11, 12 ]
+	}
+}

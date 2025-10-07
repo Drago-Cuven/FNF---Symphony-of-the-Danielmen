@@ -1,0 +1,7 @@
+v1.1:
+    - Fixed note position inconsistancy after switching scroll type.
+
+v1.2:
+    - Fixed "Save & Close" button on working.
+    - Fixed sustain length in the chart editor being wrong.
+    - Fixed Editor Version in the Note Skin Editor.

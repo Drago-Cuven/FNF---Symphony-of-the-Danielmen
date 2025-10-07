@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gallery.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gallery basic instance 10000" x="0" y="0" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10001" x="0" y="0" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10002" x="0" y="0" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10003" x="0" y="146" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10004" x="0" y="146" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10005" x="0" y="146" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10006" x="0" y="292" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10007" x="0" y="292" width="578" height="146"/>
+	<SubTexture name="gallery basic instance 10008" x="0" y="292" width="578" height="146"/>
+	<SubTexture name="gallery white instance 10000" x="0" y="438" width="698" height="176" frameX="-2" frameY="-1" frameWidth="705" frameHeight="180"/>
+	<SubTexture name="gallery white instance 10001" x="0" y="614" width="704" height="180" frameX="-1" frameY="0" frameWidth="705" frameHeight="180"/>
+	<SubTexture name="gallery white instance 10002" x="0" y="794" width="703" height="179" frameX="0" frameY="0" frameWidth="705" frameHeight="180"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "pico",
+	"difficulties": [
+		"Erect",
+		"Nightmare"
+	],
+	"color": "#941653",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Blammed",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 165,
+	"instSuffix": "-Erect",
+	"vocalsSuffix": "-Erect"
+}

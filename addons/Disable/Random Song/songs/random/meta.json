@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard",
+		"erect",
+		"nightmare"
+	],
+	"color": "#FFFFFF",
+	"name": "random",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Random",
+	"beatsPerMeasure": 4,
+	"bpm": 145
+}

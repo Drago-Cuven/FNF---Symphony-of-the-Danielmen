@@ -1,0 +1,63 @@
+{
+	"events": [],
+	"stage": "philly",
+	"codenameChart": true,
+	"scrollSpeed": 1,
+	"chartVersion": "1.6.0",
+	"strumLines": [
+		{
+			"keyCount": 5,
+			"strumScale": 1,
+			"position": "dad",
+			"notes": [],
+			"characters": [
+				"bf-pixel"
+			],
+			"type": 0,
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.25,
+			"vocalsSuffix": ""
+		},
+		{
+			"keyCount": 6,
+			"strumScale": 1,
+			"position": "boyfriend",
+			"notes": [],
+			"characters": [
+				"bf"
+			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.75,
+			"vocalsSuffix": ""
+		},
+		{
+			"keyCount": 4,
+			"notes": [],
+			"position": "girlfriend",
+			"strumScale": 1,
+			"visible": false,
+			"scrollSpeed": null,
+			"type": 2,
+			"characters": [
+				"gf"
+			],
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.5
+		}
+	],
+	"noteTypes": []
+}

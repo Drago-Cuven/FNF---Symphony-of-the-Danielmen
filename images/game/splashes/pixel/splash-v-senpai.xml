@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pixelSplash.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="blue0000" x="28" y="120" width="28" height="31" frameX="-6" frameY="-6" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="blue0001" x="121" y="0" width="36" height="38" frameX="-3" frameY="-2" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="blue0002" x="42" y="0" width="42" height="40" frameX="0" frameY="-1" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="blue0003" x="84" y="0" width="37" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="green0000" x="56" y="120" width="28" height="31" frameX="-6" frameY="-6" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="green0001" x="121" y="38" width="36" height="38" frameX="-3" frameY="-2" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="green0002" x="42" y="40" width="42" height="40" frameX="0" frameY="-1" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="green0003" x="37" y="80" width="37" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="orange0000" x="0" y="120" width="28" height="31" frameX="-6" frameY="-6" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="orange0001" x="74" y="80" width="36" height="38" frameX="-3" frameY="-2" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="orange0002" x="0" y="40" width="42" height="40" frameX="0" frameY="-1" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="orange0003" x="0" y="80" width="37" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="purple0000" x="84" y="120" width="28" height="31" frameX="-6" frameY="-6" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="purple0001" x="121" y="76" width="36" height="38" frameX="-3" frameY="-2" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="purple0002" x="0" y="0" width="42" height="40" frameX="0" frameY="-1" frameWidth="45" frameHeight="45"/>
+	<SubTexture name="purple0003" x="84" y="40" width="37" height="40" frameX="-6" frameY="0" frameWidth="45" frameHeight="45"/>
+</TextureAtlas>

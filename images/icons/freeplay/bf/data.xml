@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-icon>
+<icon antialiasing="false" scale="2">
+	<anim name="neutral" anim="idle0" looped="false" fps="0"/>
+	<anim name="select" anim="confirm" looped="false" fps="10"/>
+</icon>

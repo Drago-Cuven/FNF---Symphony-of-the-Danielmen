@@ -1,0 +1,405 @@
+{
+    "events": [
+		{
+			"params": [
+				0
+			],
+			"time": 0,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				"tankman"
+			],
+			"name": "Change Character",
+			"time": 0
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 84.2696629213483
+		},
+		{
+			"params": [
+				0,
+				"tankman"
+			],
+			"time": 84.2696629213483,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				1
+			],
+			"time": 5393,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 10955.0561797753
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 16179.7752808989
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 20140.4494382022
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 21573.0337078652,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				8,
+				4
+			],
+			"name": "Toggle Bop",
+			"time": 21573.0337078652
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 24269.6629213483
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 26966.2921348315,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				6,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 29578.6516853933
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 29662.9213483146
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 30926.9662921348
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				1,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 32022.4719101124
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				8,
+				4
+			],
+			"name": "Toggle Bop",
+			"time": 32275.2808988764
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 32359.5505617978,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				"camGame"
+			],
+			"name": "Add Camera Zoom",
+			"time": 37584.2696629213
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 37752.808988764
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 41713.4831460674
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				8,
+				4
+			],
+			"name": "Toggle Bop",
+			"time": 43061.797752809
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 43146.0674157303,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0.1,
+				"camGame"
+			],
+			"time": 48370.7865168539,
+			"name": "Add Camera Zoom"
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 48539.3258426966
+		},
+		{
+			"params": [
+				"False",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 53258.4269662921
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 62022.4719101124
+		},
+		{
+			"params": [
+				0,
+				"tankman-readheads"
+			],
+			"name": "Change Character",
+			"time": 62022.4719101124
+		},
+		{
+			"params": [
+				0,
+				"idle",
+				true
+			],
+			"name": "Play Animation",
+			"time": 62022.4719101124
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 63117.9775280899
+		},
+		{
+			"params": [
+				1,
+				"pico-knife-throw"
+			],
+			"time": 63286.5168539326,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				1,
+				"idle",
+				true
+			],
+			"time": 63286.5168539326,
+			"name": "Play Animation"
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 64044.9438202247,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 64634.8314606742
+		},
+		{
+			"params": [
+                0,
+                "tankman-bloody"
+            ],
+			"time": 64719.1011235955,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				1,
+				"pico-holding-nene"
+			],
+			"time": 64719.1011235955,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 70112.3595505618
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 75168.5393258427,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				"True",
+				0.05,
+				2,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 75421.3483146067
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 86292.1348314607
+		},
+		{
+			"params": [
+				"False",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 95646.0674157303
+		},
+		{
+			"params": [
+				"True",
+				0.1,
+				6,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 96994.3820224719
+		},
+		{
+			"params": [
+				0
+			],
+			"time": 97078.6516853933,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 107865.168539326
+		},
+		{
+			"params": [
+				0
+			],
+			"name": "Camera Movement",
+			"time": 115617.97752809
+		},
+		{
+			"params": [
+				"False",
+				0.1,
+				4,
+				0
+			],
+			"name": "Toggle Bop",
+			"time": 115870.786516854
+		},
+		{
+			"params": [
+				0,
+				"good!",
+				true
+			],
+			"name": "Play Animation",
+			"time": 115955.056179775
+		},
+		{
+			"params": [
+				1
+			],
+			"name": "Camera Movement",
+			"time": 118651.685393258
+		},
+		{
+			"params": [
+				0,
+				"idle",
+				true
+			],
+			"name": "Play Animation",
+			"time": 118651.685393258
+		}
+	]
+}

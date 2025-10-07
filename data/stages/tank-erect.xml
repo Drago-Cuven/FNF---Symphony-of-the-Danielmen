@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosY="300" folder="stages/tank/erect/" startCamPosX="700" zoom="0.7">
+	<use-extension script="dropshadow-effect"/>
+	
+	<sprite x="-929" name="bg" sprite="bg" y="-654"/>
+	<sprite x="1147" sprite="guy" y="402" type="onbeat" name="guy"/>
+	<sprite x="-176" sprite="sniper" y="357" type="onbeat" name="sniper"/>
+	<sprite x="271" sprite="speakers" y="386" type="onbeat" name="speakers"/>
+	<girlfriend x="500" scrollx="1" y="100"/>
+	<dad camxoffset="-100" x="-157" y="70"/>
+	<boyfriend camxoffset="100" x="740" y="77"/>
+	<combo/>
+</stage>

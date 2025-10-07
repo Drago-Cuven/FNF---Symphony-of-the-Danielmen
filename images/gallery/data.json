@@ -1,0 +1,50 @@
+{
+  "bgSettings": {
+    "image": "prettyCheckers",
+    "antialiasing": false,
+    "color": "0x9800FF",
+    "velocity": {
+      "x": -0.5,
+      "y": 0.25
+    },
+    "scale": {
+      "width": 5,
+      "height": 5
+    }
+  },
+  "textSettings": {
+	"titleFont": "vcr.ttf",
+	"titleColor": "0xFFFFFF",
+	"titleBorderColor": "0x000000",
+	"titleSize": 30,
+	"titleBorderSize": 3,
+	"descFont": "vcr.ttf",
+	"descColor": "0xFFFFFF",
+	"descBorderColor": "0x000000",
+	"descSize": 20,
+	"descBorderSize": 2
+  },
+  "images": [
+    {
+      "filename": "squareImageTest",
+      "title": "Square image test",
+      "description": "Quite self-explanatory",
+      "antialiasing": true,
+      "resize": true
+    },
+    {
+      "filename": "widthTestImage",
+      "title": "Width Test Image",
+      "description": "Idk add an original desc here",
+      "antialiasing": true,
+      "resize": true
+    },
+    {
+      "filename": "heightTestImage",
+      "title": "Height Test Image",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "antialiasing": true,
+      "resize": true
+    }
+  ]
+}

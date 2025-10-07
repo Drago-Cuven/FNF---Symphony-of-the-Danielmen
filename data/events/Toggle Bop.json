@@ -1,0 +1,24 @@
+{
+	"params": [
+		{
+			"name": "Enable Bop?",
+			"type": "DropDown('True', 'False')",
+			"defaultValue": "True"
+		},
+		{
+			"name": "Intesity",
+			"type": "Float(0, 0.999999, 0.0001, 10)",
+			"defaultValue": 0.1
+		},
+		{
+			"name": "Rate (curStep % rate) (4 is every beat, 8 is every 2 beats, etc.)",
+			"type": "Int(0, 999999, 1)",
+			"defaultValue": 4
+		},
+		{
+			"name": "Step Offset (Must be less than rate)",
+			"type": "Int(0, 999999, 1)",
+			"defaultValue": 0
+		}
+	]
+}

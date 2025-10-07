@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/tank/erect/" startCamPosY="300" zoom="0.7" startCamPosX="700">
+	<sprite x="-929" y="-654" sprite="bg" name="bg"/>
+	<sprite x="1147" y="402" sprite="guy" type="onbeat" name="guy"/>
+	<sprite x="-176" y="357" sprite="sniper" type="onbeat" name="sniper"/>
+	<sprite ds_hue="-46" x="271" ds_brightness="-25" y="386" ds_contrast="-38" ds_antialiasAmt="5" type="onbeat" ds_angle="90" ds_color="#DFEF3C" ds_applyShader="true" name="speakers" sprite="speakers"/>
+	<girlfriend ds_hue="-46" x="500" ds_brightness="-25" y="100" ds_contrast="-38" ds_antialiasAmt="5" ds_angle="90" ds_color="#DFEF3C" scrollx="1" ds_applyShader="true"/>
+	<dad ds_hue="-46" x="-157" ds_brightness="-25" y="70" ds_contrast="-38" ds_antialiasAmt="5" ds_threshold="0.3" ds_angle="135" ds_color="#DFEF3C" ds_applyShader="true" camxoffset="-100"/>
+	<boyfriend ds_hue="-46" x="740" ds_brightness="-25" y="77" ds_contrast="-38" ds_antialiasAmt="5" ds_angle="90" ds_color="#DFEF3C" ds_applyShader="true" camxoffset="100"/>
+	<combo/>
+</stage>

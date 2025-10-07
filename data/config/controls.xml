@@ -1,0 +1,74 @@
+<controls>
+	<!-- 1 KEY -->
+	<category name="1 KEY">
+		<control name="1k0" saveName="control_1k0" menuName="SPACE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+	</category>
+
+	<!-- 2 KEY -->
+	<category name="2 KEY">
+		<control name="2k0" saveName="control_2k0" menuName="LEFT" keyP1="D" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="2k1" saveName="control_2k1" menuName="RIGHT" keyP1="K" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 3 KEY -->
+	<category name="3 KEY">
+		<control name="3k0" saveName="control_3k0" menuName="LEFT" keyP1="D" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="3k1" saveName="control_3k1" menuName="SPACE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="3k2" saveName="control_3k2" menuName="RIGHT" keyP1="K" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 5 KEY -->
+	<category name="5 KEY">
+		<control name="5k0" saveName="control_5k0" menuName="LEFT" keyP1="D" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="5k1" saveName="control_5k1" menuName="DOWN" keyP1="F" keyP2="DOWN" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="5k2" saveName="control_5k2" menuName="SPACE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="5k3" saveName="control_5k3" menuName="UP" keyP1="J" keyP2="UP" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="5k4" saveName="control_5k4" menuName="RIGHT" keyP1="K" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 6 KEY -->
+	<category name="6 KEY">
+		<control name="6k0" saveName="control_6k0" menuName="LEFT" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="6k1" saveName="control_6k1" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="6k2" saveName="control_6k2" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="red0"/>
+		<control name="6k3" saveName="control_6k3" menuName="LEFT" keyP1="J" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="6k4" saveName="control_6k4" menuName="DOWN" keyP1="K" keyP2="DOWN" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="6k5" saveName="control_6k5" menuName="RIGHT" keyP1="L" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 7 KEY -->
+	<category name="7 KEY">
+		<control name="7k0" saveName="control_7k0" menuName="LEFT" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="7k1" saveName="control_7k1" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="7k2" saveName="control_7k2" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="red0"/>
+		<control name="7k3" saveName="control_7k3" menuName="SPACE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="7k4" saveName="control_7k4" menuName="LEFT" keyP1="J" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="7k5" saveName="control_7k5" menuName="DOWN" keyP1="K" keyP2="DOWN" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="7k6" saveName="control_7k6" menuName="RIGHT" keyP1="L" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 8 KEY -->
+	<category name="8 KEY">
+		<control name="8k0" saveName="control_8k0" menuName="LEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="8k1" saveName="control_8k1" menuName="DOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="8k2" saveName="control_8k2" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="8k3" saveName="control_8k3" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="red0"/>
+		<control name="8k4" saveName="control_8k4" menuName="LEFT" keyP1="H" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="8k5" saveName="control_8k5" menuName="DOWN" keyP1="J" keyP2="DOWN" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="8k6" saveName="control_8k6" menuName="UP" keyP1="K" keyP2="UP" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="8k7" saveName="control_8k7" menuName="RIGHT" keyP1="L" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+
+	<!-- 9 KEY -->
+	<category name="9 KEY">
+		<control name="9k0" saveName="control_9k0" menuName="LEFT" keyP1="A" keyP2="" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="9k1" saveName="control_9k1" menuName="DOWN" keyP1="S" keyP2="" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="9k2" saveName="control_9k2" menuName="UP" keyP1="D" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="9k3" saveName="control_9k3" menuName="RIGHT" keyP1="F" keyP2="" menuIcon="game/notes/default" menuAnim="red0"/>
+		<control name="9k4" saveName="control_9k4" menuName="SPACE" keyP1="SPACE" keyP2="" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="9k5" saveName="control_9k5" menuName="LEFT" keyP1="H" keyP2="LEFT" menuIcon="game/notes/default" menuAnim="purple0"/>
+		<control name="9k6" saveName="control_9k6" menuName="DOWN" keyP1="J" keyP2="DOWN" menuIcon="game/notes/default" menuAnim="blue0"/>
+		<control name="9k7" saveName="control_9k7" menuName="UP" keyP1="K" keyP2="UP" menuIcon="game/notes/default" menuAnim="green0"/>
+		<control name="9k8" saveName="control_9k8" menuName="RIGHT" keyP1="L" keyP2="RIGHT" menuIcon="game/notes/default" menuAnim="red0"/>
+	</category>
+</controls>

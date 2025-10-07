@@ -1,0 +1,59 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="600" startCamPosY="550" folder="stages/school/erect/" zoom="1" name="school-erect">
+	<use-extension script="pixel"/>
+	<use-extension script="dropshadow-effect"/>
+	<sprite antialiasing="false" x="-702.102209083221" updateHitbox="true" scroll="0.1" sprite="weebSky" y="-163.08439720066" scale="6" name="bgSky"/>
+	<sprite x="-532.177052135396" updateHitbox="true" y="6.72717132202968" scale="6" scrollx="0.6" name="bgSchool" antialiasing="false" scrolly="0.9" sprite="weebSchool"/>
+	<sprite antialiasing="false" x="-204" updateHitbox="true" scroll="0.95" sprite="weebStreet" scale="6" name="bgStreet"/>
+	<sprite antialiasing="false" x="10.3630279321783" updateHitbox="true" scroll="0.9" sprite="weebTreesBack" y="130" scale="4.797" name="fgTrees"/>
+	<sprite antialiasing="false" x="-314.185975796782" updateHitbox="true" scroll="0.85" sprite="weebTrees" y="-810.090756983045" scale="5.102" name="bgTrees"/>
+	<sprite antialiasing="false" x="79.1776098642333" updateHitbox="true" scroll="0.85" sprite="petals" y="37.3624702033417" scale="6" name="treeLeaves"/>
+	<girlfriend x="950" y="106.454900372896" 
+		ds_applyShader="true" 
+		ds_color="#52351d" 
+		ds_antialiasAmt="0" 
+		ds_angle="90" 
+		ds_distance="3" 
+		ds_brightness="-42" 
+		ds_hue="-10" 
+		ds_contrast="5" 
+		ds_saturation="-25"
+		ds_threshold="0.3"
+
+		ds_altMask="stages/school/erect/masks/gfPixel_mask"
+		ds_maskThreshold="1"
+		ds_applyAltMask="true"
+	/>
+	<dad x="600" y="76.4549003728961" 
+		ds_applyShader="true" 
+		ds_color="#52351d" 
+		ds_antialiasAmt="0" 
+		ds_angle="90" 
+		ds_distance="5" 
+		ds_brightness="-66" 
+		ds_hue="-10" 
+		ds_contrast="24" 
+		ds_saturation="-23"
+
+		ds_altMask="stages/school/erect/masks/senpai_mask"
+		ds_maskThreshold="1"
+		ds_applyAltMask="true"
+	/>
+	<boyfriend x="1415" y="116" 
+		ds_applyShader="true" 
+		ds_color="#52351d" 
+		ds_antialiasAmt="0" 
+		ds_angle="90" 
+		ds_distance="5" 
+		ds_brightness="-66" 
+		ds_hue="-10" 
+		ds_contrast="24" 
+		ds_saturation="-23"
+
+		ds_altMask="stages/school/erect/masks/bfPixel_mask"
+		ds_maskThreshold="1"
+		ds_applyAltMask="true"
+
+	/>
+	<combo x="100" y="100"/>
+</stage>
