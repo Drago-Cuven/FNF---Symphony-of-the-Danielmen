@@ -6,7 +6,7 @@ var localOptions = [
         name: "Note Style Editor", // Adapted from V-Slice naming conventions.
         id: "noteskin",
         state: null,
-        modState: "NoteSkin Editor"
+        modState: "noteSkinEditor/selector/SkinSelector"
     }
 ];
 
