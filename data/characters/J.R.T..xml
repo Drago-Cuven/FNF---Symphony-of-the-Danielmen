@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="J.R.T.">
+	<anim name="idle" anim="IDLE"/>
+	<anim name="singDOWN" anim="NOTE DOWN"/>
+	<anim name="singRIGHT" anim="NOTE RIGHT"/>
+	<anim name="singLEFT" anim="NOTE LEFT"/>
+	<anim name="singUP" anim="NOTE UP"/>
+	<anim name="HIT" anim="HIT"/>
+	<anim name="HEY!" anim="HEY!"/>
+	<anim name="MISS" anim="MISS"/>
+	<anim name="DODGE" anim="DODGE"/>
+	<anim name="ATTACK" anim="ATTACK"/>
+	<anim name="PRE-ATTACK" anim="PRE-ATTACK"/>
+</character>

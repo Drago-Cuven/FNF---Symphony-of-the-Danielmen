@@ -1,0 +1,9 @@
+{
+    "params":
+    [
+        {"name": "NoteSkin", "type": "String", "defaultValue": "Default"},
+        {"name": "NoteSkin Change Animation?", "type": "Bool", "defaultValue": false},
+		{"name": "Change all strumlines?", "type": "Bool", "defaultValue": true},
+		{"name": "Strumline", "type": "StrumLine", "defaultValue": 0}
+    ]
+}

@@ -1,0 +1,49 @@
+import funkin.backend.system.framerate.Framerate;
+import funkin.options.type.IconOption;
+import funkin.options.type.TextOption;
+import funkin.options.type.NewOption;
+import funkin.editors.ui.UISubstateWindow;
+import funkin.editors.ui.UIState;
+import funkin.editors.EditorTreeMenuScreen;
+
+var charSelectOptions;
+var main;
+
+function create() {
+	persistentUpdate = true;
+	Framerate.offset.y = 60;
+
+	charSelectOptions = [];
+
+	// Option 1: Modify Character Select Stages
+	charSelectOptions.push(new TextOption(
+		"Modify Character Select Stages",
+		"Open the Character Select Stage Editor.",
+		"",
+		function() {
+			FlxG.switchState(new UIState(true, "noteSkinEditor/selector/StageSelector"));
+		}
+	));
+
+	// Option 2: Modify Characters in Stages
+	charSelectOptions.push(new TextOption(
+		"Modify Characters in Stages",
+		"Open the Character Editor within stages.",
+		"",
+		function() {
+			FlxG.switchState(new UIState(true, "noteSkinEditor/CharSelectEditor"));
+		}
+	));
+
+	main = new EditorTreeMenuScreen("Character Select Editor", "made by Drago Cuven", charSelectOptions);
+
+	for (option in charSelectOptions) {
+		main.add(option);
+	}
+
+	addMenu(main);
+}
+
+function postUpdate() {
+	// Optional placeholder for later logic
+}

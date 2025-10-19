@@ -1,5 +1,7 @@
 story mode
 freeplay
 options
+awards
 gallery
 credits
+mods
